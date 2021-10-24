@@ -1,4 +1,4 @@
-# C--Algorithms
+# C#-Algorithms
 
 New Project I will be slowly working on the explore different algorithms using C#.
 
