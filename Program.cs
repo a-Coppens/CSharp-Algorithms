@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace C__Algo_s
+namespace CSharp_Algos
 {
     class Program
     {
