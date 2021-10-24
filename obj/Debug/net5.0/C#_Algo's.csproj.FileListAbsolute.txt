@@ -1,0 +1,16 @@
+C:\Users\Adam Coppens\source\repos\Algo's\C#_Algo's\bin\Debug\net5.0\C#_Algo's.exe
+C:\Users\Adam Coppens\source\repos\Algo's\C#_Algo's\bin\Debug\net5.0\C#_Algo's.deps.json
+C:\Users\Adam Coppens\source\repos\Algo's\C#_Algo's\bin\Debug\net5.0\C#_Algo's.runtimeconfig.json
+C:\Users\Adam Coppens\source\repos\Algo's\C#_Algo's\bin\Debug\net5.0\C#_Algo's.runtimeconfig.dev.json
+C:\Users\Adam Coppens\source\repos\Algo's\C#_Algo's\bin\Debug\net5.0\C#_Algo's.dll
+C:\Users\Adam Coppens\source\repos\Algo's\C#_Algo's\bin\Debug\net5.0\ref\C#_Algo's.dll
+C:\Users\Adam Coppens\source\repos\Algo's\C#_Algo's\bin\Debug\net5.0\C#_Algo's.pdb
+C:\Users\Adam Coppens\source\repos\Algo's\C#_Algo's\obj\Debug\net5.0\C#_Algo's.csproj.AssemblyReference.cache
+C:\Users\Adam Coppens\source\repos\Algo's\C#_Algo's\obj\Debug\net5.0\C#_Algo's.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam Coppens\source\repos\Algo's\C#_Algo's\obj\Debug\net5.0\C#_Algo's.AssemblyInfoInputs.cache
+C:\Users\Adam Coppens\source\repos\Algo's\C#_Algo's\obj\Debug\net5.0\C#_Algo's.AssemblyInfo.cs
+C:\Users\Adam Coppens\source\repos\Algo's\C#_Algo's\obj\Debug\net5.0\C#_Algo's.csproj.CoreCompileInputs.cache
+C:\Users\Adam Coppens\source\repos\Algo's\C#_Algo's\obj\Debug\net5.0\C#_Algo's.dll
+C:\Users\Adam Coppens\source\repos\Algo's\C#_Algo's\obj\Debug\net5.0\ref\C#_Algo's.dll
+C:\Users\Adam Coppens\source\repos\Algo's\C#_Algo's\obj\Debug\net5.0\C#_Algo's.pdb
+C:\Users\Adam Coppens\source\repos\Algo's\C#_Algo's\obj\Debug\net5.0\C#_Algo's.genruntimeconfig.cache
